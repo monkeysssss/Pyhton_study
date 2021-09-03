@@ -1,2 +1,2 @@
-# Pyhton_study
+# Python_study
 Study Test
